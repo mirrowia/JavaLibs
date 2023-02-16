@@ -1,0 +1,12 @@
+09:30:11.473 [main] TRACE com.mirrow.libs.log.Test - Hello there!
+09:30:11.481 [main] DEBUG com.mirrow.libs.log.Test - Hello there!
+09:30:11.482 [main] INFO  com.mirrow.libs.log.Test - Hello there!
+09:30:11.482 [main] WARN  com.mirrow.libs.log.Test - Hello there!
+09:30:11.482 [main] ERROR com.mirrow.libs.log.Test - Hello there!
+09:30:11.482 [main] FATAL com.mirrow.libs.log.Test - Hello there!
+10:36:33.317 [main] TRACE com.mirrow.libs.log.Test - Hello there!
+10:36:33.320 [main] DEBUG com.mirrow.libs.log.Test - Hello there!
+10:36:33.320 [main] INFO  com.mirrow.libs.log.Test - Hello there!
+10:36:33.320 [main] WARN  com.mirrow.libs.log.Test - Hello there!
+10:36:33.320 [main] ERROR com.mirrow.libs.log.Test - Hello there!
+10:36:33.320 [main] FATAL com.mirrow.libs.log.Test - Hello there!
